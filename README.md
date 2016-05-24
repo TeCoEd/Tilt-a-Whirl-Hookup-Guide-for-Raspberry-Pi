@@ -1,7 +1,6 @@
 # Tilt-a-Whirl-Hookup-Guide-for-Raspberry-Pi
-How to set up the Spark Design Tilt-a-Whirl Hookup to run with Python and a Raspberry Pi
-Originally designed to run with Arduino, looked everywhere for a Python version.  
-Wrote my own instead!
+How to set up the Spark Design Tilt-a-Whirl Hookup to run with Python and a Raspberry Pi.
+Originally designed to run with Arduino, looked everywhere for a Python version.  Wrote my own instead!
 
 ![](Images/tw.jpg)
 
