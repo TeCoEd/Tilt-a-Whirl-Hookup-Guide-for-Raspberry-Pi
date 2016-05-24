@@ -6,7 +6,7 @@ Originally designed to run with Arduino, looked everywhere for a Python version.
 
 #Hook up Guide
 
-VCC pin to 3v
-GND pin to ground
-S1 to GPIO 4
-S2 to GPIO 25
+VCC pin to 3V,
+GND pin to ground,
+S1 to GPIO 4,
+S2 to GPIO 25,
