@@ -1,4 +1,4 @@
-###Based on Ardiuno code ###
+###Based on Arduino code ###
 
 '''int tilt_s1 = 2;
 int tilt_s2 = 3;
